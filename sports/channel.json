@@ -205,7 +205,7 @@
   {
     "id": "espndeportes",
     "name": "ESPN DEPORTES",
-    "link": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/109.m3u8",
+    "link": "https://edgestream2.pro/hls/377qj1h2727.m3u8|referer=https%3A%2F%2Fstreame.center&origin=https%3A%2F%2Fstreame.center&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0",
     "api": "",
     "type": "shaka"
   },
