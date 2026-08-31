@@ -1,9 +1,9 @@
 [
   {
-    "id": "sporttv4",
-    "name": "SPORTTV 4",
-    "link": "https://t7.ultrastream.vip/sporttv4/index.m3u8?",
-    "api": "",
+    "id": "motogp",
+    "name": "MOTOGP CHANNEL",
+    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd",
+    "api": "e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de",
     "type": "shaka"
   },
   {
