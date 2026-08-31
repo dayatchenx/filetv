@@ -1,5 +1,12 @@
 [
   {
+    "id": "arena3p",
+    "name": "ARENA 3 PREMIUM",
+    "link": "https://nl1.nghk.ai/ArenaPremium3HD/index.m3u8",
+    "api": "",
+    "type": "shaka"
+  },
+  {
     "id": "motogp",
     "name": "MOTOGP CHANNEL",
     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd",
