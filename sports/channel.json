@@ -7,6 +7,13 @@
     "type": "shaka"
   },
   {
+    "id": "cbs",
+    "name": "CBS SPORTS",
+    "link": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/347.m3u8",
+    "api": "",
+    "type": "shaka"
+  },
+  {
     "id": "tsports",
     "name": "T SPORTS HD",
     "link": "https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8",
@@ -315,7 +322,7 @@
     "type": "shaka"
   },
   {
-    "id": "cbs",
+    "id": "cbs1",
     "name": "CBS SPORTS EMBED",
     "link": "https://chenxdayat.github.io/tv/file/cbs1.html",
     "api": "",
