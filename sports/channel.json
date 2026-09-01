@@ -7,6 +7,13 @@
     "type": "shaka"
   },
   {
+    "id": "dsports",
+    "name": "D SPORTS",
+    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
+    "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
+    "type": "shaka"
+  },
+  {
     "id": "premiere1",
     "name": "PREMIERE SPORTS 1",
     "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
