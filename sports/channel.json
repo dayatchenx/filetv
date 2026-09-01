@@ -315,6 +315,13 @@
     "type": "shaka"
   },
   {
+    "id": "espnusa",
+    "name": "ESPN - USA",
+    "link": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/348.m3u8",
+    "api": "",
+    "type": "shaka"
+  },
+  {
     "id": "willow",
     "name": "WILLOW",
     "link": "https://tvsen5.aynascope.net/willowhd/index.m3u8",
