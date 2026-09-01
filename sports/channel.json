@@ -14,6 +14,20 @@
     "type": "shaka"
   },
   {
+    "id": "tudnusa",
+    "name": "TUDN USA",
+    "link": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/128.m3u8",
+    "api": "",
+    "type": "shaka"
+  },
+  {
+    "id": "tudnmx",
+    "name": "TUDN MX",
+    "link": "https://linear-357.frequency.stream/dist/vizio/357/hls/master/playlist.m3u8",
+    "api": "",
+    "type": "shaka"
+  },
+  {
     "id": "tycar",
     "name": "TYC ARGENTINA",
     "link": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/380.m3u8",
