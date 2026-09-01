@@ -320,5 +320,12 @@
     "link": "https://chenxdayat.github.io/tv/file/cbs1.html",
     "api": "",
     "type": "embed"
+  },
+  {
+    "id": "cbsgolazo",
+    "name": "CBS GOLAZO EMBED",
+    "link": "https://chenxdayat.github.io/tv/file/cbs-golazo.html",
+    "api": "",
+    "type": "embed"
   }
 ]
