@@ -9,6 +9,13 @@
   {
     "id": "cbs",
     "name": "CBS SPORTS",
+    "link": "https://andro.226503.xyz/checklist/androstreamlivecbcs.m3u8",
+    "api": "",
+    "type": "shaka"
+  },
+  {
+    "id": "cbc",
+    "name": "CBC SPORTS",
     "link": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/347.m3u8",
     "api": "",
     "type": "shaka"
@@ -38,6 +45,20 @@
     "id": "fox3ar",
     "name": "FOX 3 ARGENTINA",
     "link": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/458.m3u8",
+    "api": "",
+    "type": "shaka"
+  },
+  {
+    "id": "bein1max",
+    "name": "BEIN 1 MAX",
+    "link": "https://andro.226503.xyz/checklist/androstreamlivebsm1.m3u8",
+    "api": "",
+    "type": "shaka"
+  },
+  {
+    "id": "bein2max",
+    "name": "BEIN 2 MAX",
+    "link": "https://andro.226503.xyz/checklist/androstreamlivebsm2.m3u8",
     "api": "",
     "type": "shaka"
   },
