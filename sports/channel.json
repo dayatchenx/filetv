@@ -14,9 +14,9 @@
     "type": "shaka"
   },
   {
-    "id": "tudnusa",
-    "name": "TUDN USA",
-    "link": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/128.m3u8",
+    "id": "foxdepo",
+    "name": "FOX DEPORTSS",
+    "link": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/376.m3u8",
     "api": "",
     "type": "shaka"
   },
@@ -38,6 +38,13 @@
     "id": "beinext",
     "name": "BEIN SPORTS EXTRA",
     "link": "https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8",
+    "api": "",
+    "type": "shaka"
+  },
+  {
+    "id": "tudnusa",
+    "name": "TUDN USA",
+    "link": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/128.m3u8",
     "api": "",
     "type": "shaka"
   },
