@@ -105,27 +105,6 @@
     "type": "shaka"
   },
   {
-    "id": "motogp",
-    "name": "MOTOGP CHANNEL",
-    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd",
-    "api": "e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de",
-    "type": "shaka"
-  },
-  {
-    "id": "daznf1",
-    "name": "DAZN F1",
-    "link": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/374.m3u8",
-    "api": "",
-    "type": "shaka"
-  },
-  {
-    "id": "daznf1a",
-    "name": "DAZN F1 ALT",
-    "link": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/379.m3u8",
-    "api": "",
-    "type": "shaka"
-  },
-  {
     "id": "tnt1",
     "name": "TNT 1 UK",
     "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
@@ -179,13 +158,6 @@
     "name": "SPOTV 2",
     "link": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd",
     "api": "7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed",
-    "type": "shaka"
-  },
-  {
-    "id": "nascar",
-    "name": "NASCAR",
-    "link": "https://amg00115-amg00115c1-nascar-northamerica-6927.playouts.now.amagi.tv/playlist.m3u8",
-    "api": "",
     "type": "shaka"
   },
   {
@@ -325,6 +297,41 @@
     "id": "willow",
     "name": "WILLOW",
     "link": "https://tvsen5.aynascope.net/willowhd/index.m3u8",
+    "api": "",
+    "type": "shaka"
+  },
+  {
+    "id": "motogp",
+    "name": "MOTOGP CHANNEL",
+    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd",
+    "api": "e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de",
+    "type": "shaka"
+  },
+  {
+    "id": "daznf1",
+    "name": "DAZN F1",
+    "link": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/374.m3u8",
+    "api": "",
+    "type": "shaka"
+  },
+  {
+    "id": "daznf1a",
+    "name": "DAZN F1 ALT",
+    "link": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/379.m3u8",
+    "api": "",
+    "type": "shaka"
+  },
+  {
+    "id": "nascar",
+    "name": "NASCAR",
+    "link": "https://amg00115-amg00115c1-nascar-northamerica-6927.playouts.now.amagi.tv/playlist.m3u8",
+    "api": "",
+    "type": "shaka"
+  },
+  {
+    "id": "nascar1",
+    "name": "NASCAR 1",
+    "link": "https://aegis-cloudfront-1.tubi.video/a8586229-0ea0-4eb4-bb23-09674c2a94d3/playlist.m3u8",
     "api": "",
     "type": "shaka"
   },
