@@ -526,5 +526,13 @@
     "api": "",
     "type": "shaka",
     "category": "tv"
+  },
+  {
+    "id": "indonesiana",
+    "name": "INDONESIANA",
+    "link": "https://tvstreamcast.com/indonesiana.m3u8",
+    "api": "",
+    "type": "shaka",
+    "category": "tv"
   }
 ]
