@@ -10,7 +10,7 @@
   {
     "id": "cbs",
     "name": "CBS SPORTS",
-    "link": "https://andro.226503.xyz/checklist/androstreamlivecbcs.m3u8",
+    "link": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/347.m3u8",
     "api": "",
     "type": "shaka",
     "category": "sport"
@@ -18,7 +18,7 @@
   {
     "id": "cbc",
     "name": "CBC SPORTS",
-    "link": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/347.m3u8",
+    "link": "https://andro.226503.xyz/checklist/androstreamlivecbcs.m3u8",
     "api": "",
     "type": "shaka",
     "category": "sport"
