@@ -518,5 +518,13 @@
     "api": "",
     "type": "embed",
     "category": "sport"
+  },
+  {
+    "id": "sindo",
+    "name": "SINDONEWS",
+    "link": "https://cdnbal1.indihometv.com/atm/DASH/mncnews/manifest.mpd",
+    "api": "",
+    "type": "shaka",
+    "category": "tv"
   }
 ]
