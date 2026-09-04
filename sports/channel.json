@@ -1,4 +1,44 @@
 [
+ {
+    "id": "ch1",
+    "name": "CHANNEL 1",
+    "link": "https://filetvchenx.blogspot.com/p/ch1.html",
+    "api": "",
+    "type": "embed",
+    "category": "sport"
+  },
+  {
+    "id": "ch2",
+    "name": "CHANNEL 2",
+    "link": "https://filetvchenx.blogspot.com/p/ch2.html",
+    "api": "",
+    "type": "embed",
+    "category": "sport"
+  },
+  {
+    "id": "ch3",
+    "name": "CHANNEL 3",
+    "link": "https://filetvchenx.blogspot.com/p/ch3.html",
+    "api": "",
+    "type": "embed",
+    "category": "sport"
+  },
+  {
+    "id": "ch4",
+    "name": "CHANNEL 4",
+    "link": "https://filetvchenx.blogspot.com/p/ch4.html",
+    "api": "",
+    "type": "embed",
+    "category": "sport"
+  },
+  {
+    "id": "ch5",
+    "name": "CHANNEL 5",
+    "link": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/458.m3u8",
+    "api": "",
+    "type": "shaka",
+    "category": "sport"
+  },
   {
     "id": "cbsgolazo",
     "name": "CBS GOLAZO",
@@ -8,49 +48,9 @@
     "category": "sport"
   },
   {
-    "id": "cbs",
-    "name": "CBS SPORTS",
-    "link": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/347.m3u8",
-    "api": "",
-    "type": "shaka",
-    "category": "sport"
-  },
-  {
     "id": "cbc",
     "name": "CBC SPORTS",
     "link": "https://andro.226503.xyz/checklist/androstreamlivecbcs.m3u8",
-    "api": "",
-    "type": "shaka",
-    "category": "sport"
-  },
-  {
-    "id": "foxdepo",
-    "name": "FOX DEPORTES",
-    "link": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/376.m3u8",
-    "api": "",
-    "type": "shaka",
-    "category": "sport"
-  },
-  {
-    "id": "fox1ar",
-    "name": "FOX 1 ARGENTINA",
-    "link": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/459.m3u8",
-    "api": "",
-    "type": "shaka",
-    "category": "sport"
-  },
-  {
-    "id": "fox2ar",
-    "name": "FOX 2 ARGENTINA",
-    "link": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/10532.m3u8",
-    "api": "",
-    "type": "shaka",
-    "category": "sport"
-  },
-  {
-    "id": "fox3ar",
-    "name": "FOX 3 ARGENTINA",
-    "link": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/458.m3u8",
     "api": "",
     "type": "shaka",
     "category": "sport"
