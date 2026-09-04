@@ -50,9 +50,193 @@
   {
     "id": "ch7",
     "name": "CHANNEL 7",
-    "link": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/128.m3u8",
+    "link": "https://filetvchenx.blogspot.com/p/ch7.html",
     "api": "",
-    "type": "shaka",
+    "type": "embed",
+    "category": "sport"
+  },
+  {
+    "id": "ch8",
+    "name": "CHANNEL 8",
+    "link": "https://filetvchenx.blogspot.com/p/ch8.html",
+    "api": "",
+    "type": "embed",
+    "category": "sport"
+  },
+  {
+    "id": "ch9",
+    "name": "CHANNEL 9",
+    "link": "https://filetvchenx.blogspot.com/p/ch9.html",
+    "api": "",
+    "type": "embed",
+    "category": "sport"
+  },
+  {
+    "id": "ch10",
+    "name": "CHANNEL 10",
+    "link": "https://filetvchenx.blogspot.com/p/ch10.html",
+    "api": "",
+    "type": "embed",
+    "category": "sport"
+  },
+  {
+    "id": "ch11",
+    "name": "CHANNEL 11",
+    "link": "https://filetvchenx.blogspot.com/p/ch11.html",
+    "api": "",
+    "type": "embed",
+    "category": "sport"
+  },
+  {
+    "id": "ch12",
+    "name": "CHANNEL 12",
+    "link": "https://filetvchenx.blogspot.com/p/ch12.html",
+    "api": "",
+    "type": "embed",
+    "category": "sport"
+  },
+  {
+    "id": "ch13",
+    "name": "CHANNEL 13",
+    "link": "https://filetvchenx.blogspot.com/p/ch13.html",
+    "api": "",
+    "type": "embed",
+    "category": "sport"
+  },
+  {
+    "id": "ch14",
+    "name": "CHANNEL 14",
+    "link": "https://filetvchenx.blogspot.com/p/ch14.html",
+    "api": "",
+    "type": "embed",
+    "category": "sport"
+  },
+  {
+    "id": "ch15",
+    "name": "CHANNEL 15",
+    "link": "https://filetvchenx.blogspot.com/p/ch15.html",
+    "api": "",
+    "type": "embed",
+    "category": "sport"
+  },
+  {
+    "id": "ch16",
+    "name": "CHANNEL 16",
+    "link": "https://filetvchenx.blogspot.com/p/ch16.html",
+    "api": "",
+    "type": "embed",
+    "category": "sport"
+  },
+  {
+    "id": "ch17",
+    "name": "CHANNEL 17",
+    "link": "https://filetvchenx.blogspot.com/p/ch17.html",
+    "api": "",
+    "type": "embed",
+    "category": "sport"
+  },
+  {
+    "id": "ch18",
+    "name": "CHANNEL 18",
+    "link": "https://filetvchenx.blogspot.com/p/ch18.html",
+    "api": "",
+    "type": "embed",
+    "category": "sport"
+  },
+  {
+    "id": "ch19",
+    "name": "CHANNEL 19",
+    "link": "https://filetvchenx.blogspot.com/p/ch19.html",
+    "api": "",
+    "type": "embed",
+    "category": "sport"
+  },
+  {
+    "id": "ch20",
+    "name": "CHANNEL 20",
+    "link": "https://filetvchenx.blogspot.com/p/ch20.html",
+    "api": "",
+    "type": "embed",
+    "category": "sport"
+  },
+  {
+    "id": "ch21",
+    "name": "CHANNEL 21",
+    "link": "https://filetvchenx.blogspot.com/p/ch21.html",
+    "api": "",
+    "type": "embed",
+    "category": "sport"
+  },
+  {
+    "id": "ch22",
+    "name": "CHANNEL 22",
+    "link": "https://filetvchenx.blogspot.com/p/ch22.html",
+    "api": "",
+    "type": "embed",
+    "category": "sport"
+  },
+  {
+    "id": "ch23",
+    "name": "CHANNEL 23",
+    "link": "https://filetvchenx.blogspot.com/p/ch23.html",
+    "api": "",
+    "type": "embed",
+    "category": "sport"
+  },
+  {
+    "id": "ch24",
+    "name": "CHANNEL 24",
+    "link": "https://filetvchenx.blogspot.com/p/ch24.html",
+    "api": "",
+    "type": "embed",
+    "category": "sport"
+  },
+  {
+    "id": "ch25",
+    "name": "CHANNEL 25",
+    "link": "https://filetvchenx.blogspot.com/p/ch25.html",
+    "api": "",
+    "type": "embed",
+    "category": "sport"
+  },
+  {
+    "id": "ch26",
+    "name": "CHANNEL 26",
+    "link": "https://filetvchenx.blogspot.com/p/ch26.html",
+    "api": "",
+    "type": "embed",
+    "category": "sport"
+  },
+  {
+    "id": "ch27",
+    "name": "CHANNEL 27",
+    "link": "https://filetvchenx.blogspot.com/p/ch27.html",
+    "api": "",
+    "type": "embed",
+    "category": "sport"
+  },
+  {
+    "id": "ch28",
+    "name": "CHANNEL 28",
+    "link": "https://filetvchenx.blogspot.com/p/ch28.html",
+    "api": "",
+    "type": "embed",
+    "category": "sport"
+  },
+  {
+    "id": "ch29",
+    "name": "CHANNEL 29",
+    "link": "https://filetvchenx.blogspot.com/p/ch29.html",
+    "api": "",
+    "type": "embed",
+    "category": "sport"
+  },
+  {
+    "id": "ch30",
+    "name": "CHANNEL 30",
+    "link": "https://filetvchenx.blogspot.com/p/ch30.html",
+    "api": "",
+    "type": "embed",
     "category": "sport"
   },
   {
@@ -107,14 +291,6 @@
     "id": "tudnmx",
     "name": "TUDN MX",
     "link": "https://linear-357.frequency.stream/dist/vizio/357/hls/master/playlist.m3u8",
-    "api": "",
-    "type": "shaka",
-    "category": "sport"
-  },
-  {
-    "id": "tycar",
-    "name": "TYC ARGENTINA",
-    "link": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/380.m3u8",
     "api": "",
     "type": "shaka",
     "category": "sport"
@@ -376,22 +552,6 @@
     "category": "sport"
   },
   {
-    "id": "espndepo",
-    "name": "ESPN - DEPORTES",
-    "link": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/112.m3u8",
-    "api": "",
-    "type": "shaka",
-    "category": "sport"
-  },
-  {
-    "id": "espnusa",
-    "name": "ESPN - USA",
-    "link": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/348.m3u8",
-    "api": "",
-    "type": "shaka",
-    "category": "sport"
-  },
-  {
     "id": "willow",
     "name": "WILLOW",
     "link": "https://tvsen5.aynascope.net/willowhd/index.m3u8",
@@ -404,22 +564,6 @@
     "name": "MOTOGP CHANNEL",
     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd",
     "api": "e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de",
-    "type": "shaka",
-    "category": "sport"
-  },
-  {
-    "id": "daznf1",
-    "name": "DAZN F1",
-    "link": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/374.m3u8",
-    "api": "",
-    "type": "shaka",
-    "category": "sport"
-  },
-  {
-    "id": "daznf1a",
-    "name": "DAZN F1 ALT",
-    "link": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/379.m3u8",
-    "api": "",
     "type": "shaka",
     "category": "sport"
   },
@@ -451,30 +595,6 @@
     "id": "racingtv",
     "name": "RACINGTV",
     "link": "https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index_1.m3u8",
-    "api": "",
-    "type": "shaka",
-    "category": "sport"
-  },
-  {
-    "id": "espn1ar",
-    "name": "ESPN 1 ARGENTINA",
-    "link": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/107.m3u8",
-    "api": "",
-    "type": "shaka",
-    "category": "sport"
-  },
-  {
-    "id": "espn2ar",
-    "name": "ESPN 2 ARGENTINA",
-    "link": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/108.m3u8",
-    "api": "",
-    "type": "shaka",
-    "category": "sport"
-  },
-  {
-    "id": "espn3ar",
-    "name": "ESPN 3 ARGENTINA",
-    "link": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/109.m3u8",
     "api": "",
     "type": "shaka",
     "category": "sport"
